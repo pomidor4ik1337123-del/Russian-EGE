@@ -1,4 +1,5 @@
 #КЕГЭ 5954 шаблонный шаблон
+#разбор Роди - https://www.youtube.com/watch?v=R5w8IroAWos
 
 from functools import*
 
