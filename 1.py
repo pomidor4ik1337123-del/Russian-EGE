@@ -1,3 +1,5 @@
+#разбор от Роди - https://www.youtube.com/watch?v=KZn9mJzvNNY
+
 from itertools import*
 
 a = '234 136 12 157 467 25 45'.split()
