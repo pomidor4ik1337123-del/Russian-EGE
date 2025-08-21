@@ -1,3 +1,5 @@
+#разбор от Кабанова (бомжа) - https://www.youtube.com/watch?v=Af_U6uXnBAU
+
 from itertools import*
 
 
