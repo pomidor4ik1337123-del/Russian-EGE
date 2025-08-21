@@ -10,5 +10,5 @@ for n in range(3, 10_001):
         if '999' in s:
             s = s.replace('999', '3', 1)
 
-    if sum(int(cif) for cif in s) == 33:
+    if sum(int(cif) for cif in s) == 33:        #хороший способ найти сумму цифр числа епта
         print(n)
